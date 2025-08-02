@@ -1,7 +1,9 @@
 Overview
+
 This line-following robot is an autonomous device designed to follow a black line using infrared (IR) sensors and a PID-based control system. The robot features differential drive steering and real-time path correction capabilities.
 
 Hardware Components
+
 •	Microcontroller: ESP32
 •	Sensors: Two IR sensors (left and right) for line detection
 •	Motors: Two DC motors with independent control

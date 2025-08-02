@@ -34,5 +34,6 @@ Function:
 •	Adjusts motor speeds to maintain course
 
 Circuit Diagram:
+
 <img width="820" height="954" alt="image" src="https://github.com/user-attachments/assets/5a47cb18-73fe-4605-b8f6-0eca381efe9e" />
 
